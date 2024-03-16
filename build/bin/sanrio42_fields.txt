@@ -1,0 +1,4 @@
+name
+species
+color
+origin_year

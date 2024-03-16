@@ -1,0 +1,4 @@
+item
+character
+category
+price
